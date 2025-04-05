@@ -86,6 +86,10 @@ VENTORY!
 	screen_max_columns = 2
 	screen_max_rows = 5
 
+/datum/component/storage/concrete/vtm/briefcase
+	screen_max_columns = 5
+	screen_max_rows = 5
+
 /datum/component/storage
 	screen_max_columns = 5
 	screen_max_rows = 5
